@@ -2,26 +2,26 @@
 <style>.t{font:13px sans-serif;fill:#24292f}.b{fill:#d0d7de}@media (prefers-color-scheme: dark){.t{fill:#e6edf3}.b{fill:#30363d}}</style>
 <text class="t" x="12" y="28">C++</text>
 <rect class="b" x="130" y="18" width="220" height="12" rx="6"/>
-<rect x="130" y="18" width="199.8" height="12" rx="6" fill="#f34b7d"/>
-<text class="t" x="360" y="28">90.8 %</text>
-<text class="t" x="12" y="58">PHP</text>
+<rect x="130" y="18" width="157.9" height="12" rx="6" fill="#f34b7d"/>
+<text class="t" x="360" y="28">71.8 %</text>
+<text class="t" x="12" y="58">Python</text>
 <rect class="b" x="130" y="48" width="220" height="12" rx="6"/>
-<rect x="130" y="48" width="9.8" height="12" rx="6" fill="#4f5d95"/>
-<text class="t" x="360" y="58">4.5 %</text>
-<text class="t" x="12" y="88">Java</text>
+<rect x="130" y="48" width="46.2" height="12" rx="6" fill="#3572a5"/>
+<text class="t" x="360" y="58">21.0 %</text>
+<text class="t" x="12" y="88">PHP</text>
 <rect class="b" x="130" y="78" width="220" height="12" rx="6"/>
-<rect x="130" y="78" width="7.9" height="12" rx="6" fill="#b07219"/>
-<text class="t" x="360" y="88">3.6 %</text>
-<text class="t" x="12" y="118">JavaScript</text>
+<rect x="130" y="78" width="7.7" height="12" rx="6" fill="#4f5d95"/>
+<text class="t" x="360" y="88">3.5 %</text>
+<text class="t" x="12" y="118">Java</text>
 <rect class="b" x="130" y="108" width="220" height="12" rx="6"/>
-<rect x="130" y="108" width="2.1" height="12" rx="6" fill="#f1e05a"/>
-<text class="t" x="360" y="118">1.0 %</text>
-<text class="t" x="12" y="148">QML</text>
+<rect x="130" y="108" width="6.2" height="12" rx="6" fill="#b07219"/>
+<text class="t" x="360" y="118">2.8 %</text>
+<text class="t" x="12" y="148">JavaScript</text>
 <rect class="b" x="130" y="138" width="220" height="12" rx="6"/>
-<rect x="130" y="138" width="2.0" height="12" rx="6" fill="#8b949e"/>
-<text class="t" x="360" y="148">0.1 %</text>
-<text class="t" x="12" y="178">C</text>
+<rect x="130" y="138" width="2.0" height="12" rx="6" fill="#f1e05a"/>
+<text class="t" x="360" y="148">0.8 %</text>
+<text class="t" x="12" y="178">QML</text>
 <rect class="b" x="130" y="168" width="220" height="12" rx="6"/>
-<rect x="130" y="168" width="2.0" height="12" rx="6" fill="#555555"/>
+<rect x="130" y="168" width="2.0" height="12" rx="6" fill="#8b949e"/>
 <text class="t" x="360" y="178">0.1 %</text>
 </svg>
