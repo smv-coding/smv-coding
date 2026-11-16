@@ -1,6 +1,6 @@
 # Sébastien Merliere Vanhoeke
 
-**Développeur C++ embarqué (Linux) · Java / Vaadin · Android natif**
+**Développeur C++ embarqué (Linux) · Java / Vaadin · Android natif**<br>
 7 ans d'expérience · Freelance en télétravail
 
 ---
