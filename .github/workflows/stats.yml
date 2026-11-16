@@ -21,7 +21,7 @@ jobs:
       - name: Generate the language card
         env:
           GH_TOKEN: ${{ secrets.STATS_TOKEN }}
-          EXCLUDE: "HTML,CSS,SCSS,Makefile,Python"
+          EXCLUDE: "HTML,CSS,SCSS,Makefile"
           TOP_N: "6"
           OUTPUT: profile/top-languages.svg
         run: python scripts/top_languages.py
