@@ -26,11 +26,10 @@
 - **[Install-rtl8821ce-driver](https://github.com/sergeibux/Install-rtl8821ce-driver)** : installation du pilote Wi-Fi RTL8821CE sous Linux.
 - **NSA-app** : application Android de gestion de stock, avec son site web et ses outils de synchronisation. Publiée sur Google Play.
 
-<!--
 Langages les plus utilisés (à décommenter une fois le workflow GitHub Action en place) :
 
 ![Langages](./profile/top-languages.svg)
--->
+
 
 ## Me contacter
 
