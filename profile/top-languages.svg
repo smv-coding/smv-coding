@@ -10,7 +10,7 @@
 <text class="t" x="360" y="58">21.0 %</text>
 <text class="t" x="12" y="88">PHP</text>
 <rect class="b" x="130" y="78" width="220" height="12" rx="6"/>
-<rect x="130" y="78" width="7.7" height="12" rx="6" fill="#4f5d95"/>
+<rect x="130" y="78" width="7.8" height="12" rx="6" fill="#4f5d95"/>
 <text class="t" x="360" y="88">3.5 %</text>
 <text class="t" x="12" y="118">Java</text>
 <rect class="b" x="130" y="108" width="220" height="12" rx="6"/>
